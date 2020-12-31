@@ -13,4 +13,4 @@ This is a code to Visualize Modulo Arithmetic around a circle in python, through
 
 ## License & Copyright
 &#169; Tonumoy Mukherjee, Indian Insitute of Technology Kharagpur
-> Licensed under the [GPL- 3.0 License](LICENSE).
+> Licensed under the [GNU](LICENSE).
