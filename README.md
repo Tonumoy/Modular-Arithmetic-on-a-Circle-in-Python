@@ -22,9 +22,9 @@ A familiar use of modular arithmetic is in the 12-hour clock, in which the day i
 ![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%203.png)
 ![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%204.png)
 ![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%205.png)
-![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%210.png)
-![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%215.png)
-![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%225.png)
+![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%206.png)
+![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%207.png)
+![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%208.png)
 
 ## Contributors
 * Tonumoy Mukherjee tonumoymukherjee2@gmail.com
