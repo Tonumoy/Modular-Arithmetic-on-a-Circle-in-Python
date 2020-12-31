@@ -25,6 +25,8 @@ A familiar use of modular arithmetic is in the 12-hour clock, in which the day i
 ![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%206.png)
 ![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%207.png)
 ![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%208.png)
+![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%2075.png)
+![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python-For-Mandala-Art/blob/main/Results/Multiplier%2089.png)
 
 ## Contributors
 * Tonumoy Mukherjee tonumoymukherjee2@gmail.com
