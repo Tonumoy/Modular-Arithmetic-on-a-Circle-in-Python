@@ -6,7 +6,7 @@ This is a code to Visualize Modulo Arithmetic around a circle in python, through
 ***
 
 # Result
-![Result](https://github.com/Tonumoy/Fractal-Art/blob/master/RESULT.jpg?raw=true)
+![Result](https://github.com/Tonumoy/Modular-Arithmetic-on-a-Circle-in-Python/blob/main/Results.jpg)
 
 ## Contributors
 * Tonumoy Mukherjee tonumoymukherjee2@gmail.com
